@@ -1,0 +1,8 @@
+frmMain = 44, 58, 817, 674, Z, 22, 29, 803, 645, C
+modParameters = 66, 87, 847, 703, 
+modDeclarations = 132, 174, 911, 790, 
+modRegistry = 176, 232, 957, 845, 
+modWinDir = 154, 203, 942, 824, 
+frmClient = 66, 87, 854, 708, , 198, 261, 986, 882, C
+frmSvr = 22, 29, 810, 650, , 220, 290, 1008, 911, C
+modCompName = 88, 116, 876, 737, 
